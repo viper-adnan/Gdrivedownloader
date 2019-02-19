@@ -1,7 +1,8 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "httphttpss:/https://github.com/hasibulkabir/Gdrivedownloader",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "stack": "heroku-16"
 }
+
+
+
+
+
